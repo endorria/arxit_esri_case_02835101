@@ -1,0 +1,14 @@
+C:\Users\mmi\Documents\arxiT\_CODE\arxit_esri_case_02835101\ProAppModule1\bin\Debug\ProAppModule1.dll
+C:\Users\mmi\Documents\arxiT\_CODE\arxit_esri_case_02835101\ProAppModule1\bin\Debug\ProAppModule1.pdb
+C:\Users\mmi\Documents\arxiT\_CODE\arxit_esri_case_02835101\ProAppModule1\obj\x64\Debug\Dockpane1.g.cs
+C:\Users\mmi\Documents\arxiT\_CODE\arxit_esri_case_02835101\ProAppModule1\obj\x64\Debug\Views\PanelHistoryView.g.cs
+C:\Users\mmi\Documents\arxiT\_CODE\arxit_esri_case_02835101\ProAppModule1\obj\x64\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mmi\Documents\arxiT\_CODE\arxit_esri_case_02835101\ProAppModule1\obj\x64\Debug\ProAppModule1_MarkupCompile.cache
+C:\Users\mmi\Documents\arxiT\_CODE\arxit_esri_case_02835101\ProAppModule1\obj\x64\Debug\ProAppModule1_MarkupCompile.lref
+C:\Users\mmi\Documents\arxiT\_CODE\arxit_esri_case_02835101\ProAppModule1\obj\x64\Debug\Dockpane1.baml
+C:\Users\mmi\Documents\arxiT\_CODE\arxit_esri_case_02835101\ProAppModule1\obj\x64\Debug\Views\PanelHistoryView.baml
+C:\Users\mmi\Documents\arxiT\_CODE\arxit_esri_case_02835101\ProAppModule1\obj\x64\Debug\ProAppModule1.g.resources
+C:\Users\mmi\Documents\arxiT\_CODE\arxit_esri_case_02835101\ProAppModule1\obj\x64\Debug\ProAppModule1.csproj.CoreCompileInputs.cache
+C:\Users\mmi\Documents\arxiT\_CODE\arxit_esri_case_02835101\ProAppModule1\obj\x64\Debug\ProAppModule1.dll
+C:\Users\mmi\Documents\arxiT\_CODE\arxit_esri_case_02835101\ProAppModule1\obj\x64\Debug\ProAppModule1.pdb
+C:\Users\mmi\Documents\arxiT\_CODE\arxit_esri_case_02835101\ProAppModule1\bin\Debug\Parameters.config
